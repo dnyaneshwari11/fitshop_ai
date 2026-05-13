@@ -1,10 +1,28 @@
 # fitshop_ai
 
-A new Flutter project.
+FitShop_AI is a sponsored group project focused on building an AI-powered shopping assistant and recommendation platform for smart and personalized online shopping experiences. The project combines chatbot assistance, recommendation systems, and modern mobile application development to improve customer interaction and product discovery.
 
-## Getting Started
+## Project Overview
+The objective of FitShop_AI is to develop an intelligent shopping platform that helps users:
+- Discover products efficiently
+- Receive personalized recommendations
+- Interact with an AI-powered chatbot
+- Improve shopping experience using AI-driven features
 
-This project is a starting point for a Flutter application.
+## Features
+- AI-powered chatbot assistance
+- Personalized recommendation system
+- Smart product suggestions
+- Interactive mobile application
+- User-friendly interface
+- Backend support for dynamic responses
+
+## My Contribution
+- Assisted in AI chatbot development and response flow
+- Contributed to recommendation system research and implementation ideas
+- Helped in project documentation and report preparation
+- Participated in research paper writing and technical research
+- Supported collaboration and development tasks within the team
 
 A few resources to get you started if this is your first Flutter project:
 
